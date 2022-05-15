@@ -1,5 +1,6 @@
 ## Level 0
 "ssh username@host -p <port>"
+
 Connecting to ssh usiing command "ssh bandit0@bandit.labs.overthewire.org -p 2220"
 Password for level 1 was in readme file - "boJ9jbbUNNfktd78OOpsqOltutMc3MY1"
 
